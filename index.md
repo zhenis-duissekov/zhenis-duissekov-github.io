@@ -1,46 +1,22 @@
 # Добро пожаловать на мою страницу
 
-## [РУССКИЙ](ru/index.html) or [ENGLISH](en)
+## [Резюме](ru/index.html) or [Resume](en/index.html)
+
+_Хочу помочь другим принять правильные решения опираясь на данные_
+
+## Услуги
+
+Как Python разработчик и немного аналитик данных, я разрабатываю приложения для сбора данных, преобразую данные в ценные и понятные идеи. Моя цель улучшить результаты, принять правильные решения и сэкономить на расходах.
+Я использую алгоритмы машинного обучения, методы визуализации данных для представления данных. Для моих проектов я использую Python, SQL, Tableau, React, JavaScript и эксель.
 
 
-## О СЕБЕ
-Занимаюсь разработкой приложений на языке Python 3. Ищу работу в г. Нур-Султан или Алматы. Могу работать удаленно.
+## Визуализация
 
+Панели мониторинга(дашборды) в интерактивном режиме отображают самые последние результаты
+Нажимая на кнопки и проваливаясь можно самостоятельно исследовать закономерности и тенденции.
+[пример](dashboards/index.html)
 
-## Welcome to GitHub Pages
+# (Интерактивная) инфографика
+Представьте свои данные в удобном для вашей работы формате. Я разрабатываю инфографики для интерактивной работы внутри компании и публично.
+Present your data in an inspiring way by using an infographic rather than a piece of text. I create interactive infographics which can be used internally or publicly.
 
-You can use the [editor on GitHub](https://github.com/zhenis-duissekov/zhenis-duissekov-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhenis-duissekov/zhenis-duissekov-github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
