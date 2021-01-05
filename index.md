@@ -1,6 +1,6 @@
 # Добро пожаловать на мою страницу
 
-## [РУССКИЙ](www.gogle.com) or [ENGLISH](www.google.eng)
+## [РУССКИЙ](ru/index.html) or [ENGLISH](en)
 
 
 ## О СЕБЕ
