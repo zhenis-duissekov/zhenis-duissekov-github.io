@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Женис Дуйсеков
-h1: helelo
+layout: page
+permalink: /URL-PATH/
