@@ -6,4 +6,7 @@ Previously, I co-founded a SAAS startup where we implemented monitoring systems 
 
 I'm a graduate of the University of Southern California, where I earned my B.Sc. in Electrical Engineering, and King Abdullah University of Science and Technology, where I earned my MS in Electrical Engineering. In my free time, I enjoy programming, learning new skills, and playing basketball.
 
-Please feel free to contact me via email or through my [LinkedIn](https://www.linkedin.com/in/zhenis-golang-6057a57/), [Github](https://github.com/zhenisduissekov/zhenisduissekov.github.io/upload/gh-pages/en/ZHENIS_DUISSEKOV_CV_23032703.pdf), or [LeetCode](https://leetcode.com/zduissekov/) profiles. I look forward to hearing from you!
+Please feel free to contact me via email or through my [LinkedIn](https://www.linkedin.com/in/zhenis-golang-6057a57/), [Github](https://github.com/zhenisduissekov), or [LeetCode](https://leetcode.com/zduissekov/) profiles. I look forward to hearing from you!
+
+
+[CV](https://github.com/zhenisduissekov/zhenisduissekov.github.io/blob/gh-pages/en/ZHENIS_DUISSEKOV_CV_23032703.pdf)
