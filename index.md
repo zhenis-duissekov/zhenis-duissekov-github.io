@@ -10,4 +10,4 @@ Please feel free to contact me via email or through my [LinkedIn](https://www.li
 
 [CV](https://github.com/zhenisduissekov/zhenisduissekov.github.io/blob/gh-pages/en/mycv.md)
 
-[DOWNLOAD CV as PDF](https://github.com/zhenisduissekov/zhenisduissekov.github.io/raw/gh-pages/en/ZHENIS_DUISSEKOV_CV_23032703.pdf)
+[PDF](https://github.com/zhenisduissekov/zhenisduissekov.github.io/raw/gh-pages/en/ZHENIS_DUISSEKOV_CV_23032703.pdf)
