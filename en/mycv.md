@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello, I'm Zhenis, a passionate software developer with a focus on back-end development. I have experience with Golang, Python, and NodeJS, as well as databases such as PostgreSQL, MongoDB, and ClickHouse. I'm also familiar with microservice and monolith architectures, Kubernetes, and CI/CD.
+Hello, I'm Zhenis, a passionate software developer with a focus on back-end development. I have experience with Golang, Python, and NodeJS, as well as databases such as PostgreSQL, MongoDB, and ClickHouse. I also know my way around microservices and monolith architectures, as well as Kubernetes and CI/CD.
 
 ## Work Experience
 
