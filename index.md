@@ -8,6 +8,5 @@ I'm a graduate of the University of Southern California, where I earned my B.Sc.
 
 Please feel free to contact me via email or through my [LinkedIn](https://www.linkedin.com/in/zhenis-golang-6057a57/), [Github](https://github.com/zhenisduissekov), or [LeetCode](https://leetcode.com/zduissekov/) profiles. I look forward to hearing from you!
 
-[download]https://github.com/zhenisduissekov/zhenisduissekov.github.io/raw/gh-pages/en/ZHENIS_DUISSEKOV_CV_23032703.pdf
-[CV](https://github.com/zhenisduissekov/zhenisduissekov.github.io/blob/gh-pages/en/mycv.md)[PDF](https://github.com/zhenisduissekov/zhenisduissekov.github.io/blob/gh-pages/en/ZHENIS_DUISSEKOV_CV_23032703.pdf)
-
+[CV](https://github.com/zhenisduissekov/zhenisduissekov.github.io/blob/gh-pages/en/mycv.md)
+[DOWNLOAD CV as PDF](https://github.com/zhenisduissekov/zhenisduissekov.github.io/raw/gh-pages/en/ZHENIS_DUISSEKOV_CV_23032703.pdf)
